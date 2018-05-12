@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '42919'
     url: http://www.gutenberg.org/2009/agents/42919
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44783#The-Seventh-RegimentA-Record
 gutenberg_issued: '2014-01-28'
 gutenberg_type: Text
 identifiers:
